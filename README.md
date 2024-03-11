@@ -45,6 +45,7 @@
 
 ### Members Manning the Booth and Guests Visiting and Inquiring
 #### **Day 1**
+- ![Guest List](https://docs.google.com/spreadsheets/d/1utZ_jXnAx9xib_dsG2r2cJuqbxpRQkGhJKXK3BCNK30/edit#gid=0)
 - Number of visitors: 64 people mostly from CCS
 
 
