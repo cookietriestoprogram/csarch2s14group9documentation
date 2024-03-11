@@ -59,10 +59,12 @@
 ### Flyers Used During Exhibit
 | Flyers | Flyers |
 | ------- | ------- |
-| ![Flyer page 1](1.jpg) | ![Flyer page 2](2.jpg) |
-| ![Flyer page 3](3.jpg) | ![Flyer page 4](4.jpg) |
-| ![Flyer page 5](5.jpg) | ![Flyer page 6](6.jpg) |
-| ![Flyer page 7](7.jpg) | ![Flyer page 8](8.jpg) |
+| ![Flyer page 1](1.png) | ![Flyer page 2](2.png) |
+| ![Flyer page 3](3.png) | ![Flyer page 4](4.png) |
+| ![Flyer page 5](5.png) | ![Flyer page 6](6.png) |
+| ![Flyer page 7](7.png) | ![Flyer page 8](8.png) |
+
+- At our exhibit, we provided brochures tailored to each component showcased, placed beside their respective components. Each brochure offers a concise yet comprehensive overview of the featured component, ensuring that visitors can quickly grasp its significance and technological evolution. These informative brochures served as handy references for attendees should we be occupied by other visitors. 
 
 ---
 
