@@ -47,6 +47,7 @@
 - **Day 2:**
 - Number of Visitors: 39 people
 
+| Day 1 Images | Day 1 Images |
 | ------- | ------- |
 | ![Explaining the components](man1d2.jpg) | ![Explaining the components](man4d2.jpg) |
 | ![Explaining the components](man2d2.jpg) | ![Explaining the components](man8d2.jpg) |
