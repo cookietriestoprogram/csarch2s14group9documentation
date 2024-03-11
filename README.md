@@ -11,7 +11,8 @@
 
 ### Before Booth Setup
 ![Empty table before booth setup](setup1.jpg)
-- Initially, booth setup proved challenging as lighter components were at risk of getting blown away in the AC draft. 
+- Initially, booth setup proved challenging as lighter components were at risk of getting blown away. 
+
 
 ![Setting up the booth](setup2.jpg)
 - In this image, our team can be seen setting up the booth. To address the challenge of lighter components, we improvised by taping them onto a board that already had descriptions. This allowed us to secure the components and prevent them from being displaced.
