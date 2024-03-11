@@ -36,7 +36,8 @@
 
 | Image 1 | Image 2 |
 | ------- | ------- |
-| !(man1d1.jpg) | !(man2d1.jpg) |
+| ![Empty table before booth setup](setup1.jpg) | ![Setting up the booth](setup2.jpg) |
+
 
   
 - **Day 2:** [Insert picture/video with timestamp]
