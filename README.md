@@ -45,6 +45,7 @@
 
 ### Members Manning the Booth and Guests Visiting and Inquiring
 - [Guest List](https://docs.google.com/spreadsheets/d/1utZ_jXnAx9xib_dsG2r2cJuqbxpRQkGhJKXK3BCNK30/edit?usp=sharing)
+- [Members Manning Schedule](https://www.when2meet.com/?23805307-6EYMD&fbclid=IwAR372HoMJ-jLq27X_WZO6N0iGBOBTQKwOzX30w4urgtLazePoCUuG-OQjP0)
 
 #### **Day 1**
 - Number of visitors: 162 people mostly from CCS
