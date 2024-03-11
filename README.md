@@ -1,13 +1,14 @@
 # [CSARCH2] S14 GROUP 9 - Documentation
 ---
-# Table of Contents
+## Table of Contents
 
-1. [Video Used During Exhibit](#video-used-during-exhibit)
-2. [Documentation Collage](#documentation-collage)
+1. [Video Used During Exhibit](#1-video-used-during-exhibit)
+2. [Documentation Collage](#2-documentation-collage)
     - [Before Booth Setup](#before-booth-setup)
     - [After Booth Setup](#after-booth-setup)
-    - [Members Manning the Booth](#members-manning-the-booth)
-    - [Guests Visiting and Inquiring](#guests-visiting-and-inquiring)
+    - [Members Manning the Booth and Guests Visiting and Inquiring](#members-manning-the-booth-and-guests-visiting-and-inquiring)
+        - [Day 1](#day-1)
+        - [Day 2](#day-2)
     - [Flyers Used During Exhibit](#flyers-used-during-exhibit)
     - [Other Gimmicks Used](#other-gimmicks-used)
 
