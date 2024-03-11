@@ -22,14 +22,12 @@
 ### After Booth Setup
 ![Booth setup](setup3.jpg)
 
-![Boothe setup pt 2](setup5.jpg)
+![Booth setup pt 2](setup5.jpg)
 
 - These images depict the fully set up booth. The placement of components follows a timeline format, strategically organized from left to right. This layout allows visitors to navigate through the project's progression, from its inception to its current state, in a clear and structured manner.
 
 ![Boothe setup pt 3](setup4.jpg)
-
-
-- After booth setup, our exhibit showcased the evolution of transactional systems through components such as EMV chip cards and readers for enhanced security, alongside NFC technology demonstrating the rise of contactless transactions
+- Our exhibit showcased the evolution of transactional systems through components such as EMV chip cards and readers for enhanced security, alongside NFC technology demonstrating the rise of contactless transactions
 
 ### Members Manning the Booth
 - **Day 1:** [Insert picture/video with timestamp]
