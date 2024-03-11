@@ -4,8 +4,8 @@
 ## 1. Video Used During Exhibit
 
 - **Description:** The video showcases our team members discussing the project, its features, and its significance. Each member is physically seen in the video, ensuring clarity and liveliness.
-- **Duration:**
-- **Link:** 
+- **Duration:** 9 minutes 8 seconds
+- **Link:** https://drive.google.com/file/d/1PCFQrm5ZYI2iGayL8F9vaor8D9sp4B2x/view?fbclid=IwAR2hudFNGj1Zduprxt5LHdu8Dpo1WgOF0ZTATeIxyJ0ZNgmOKzPAqYtta8s
   
 ## 2. Documentation Collage
 
@@ -21,9 +21,14 @@
 ### After Booth Setup
 ![Booth setup](setup3.jpg)
 
-![Boothe setup pt 2](setup4.jpg)
+![Boothe setup pt 2](setup5.jpg)
 
 - These images depict the fully set up booth. The placement of components follows a timeline format, strategically organized from left to right. This layout allows visitors to navigate through the project's progression, from its inception to its current state, in a clear and structured manner.
+
+![Boothe setup pt 3](setup4.jpg)
+
+
+- After booth setup, our exhibit showcased the evolution of transactional systems through components such as EMV chip cards and readers for enhanced security, alongside NFC technology demonstrating the rise of contactless transactions
 
 ### Members Manning the Booth
 - **Day 1:** [Insert picture/video with timestamp]
