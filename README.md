@@ -31,21 +31,18 @@
 
 ---
 
-### Members Manning the Booth
+### Members Manning the Booth and Guests Visiting and Inquiring
 - **Day 1:**
 
-| Image 1 | Image 2 | 
-| -------------- |
-| ![Empty table before booth setup](man3d1.jpg) | ![Setting up the booth](man5d1.jpg) |
+| Day 1 Images | Day 1 Images |
+| ------- | ------- |
+| ![Explaining the components](man3d1.jpg) | ![Explaining the components](man5d1.jpg) |
+| ![Explaining the components](man6d1.jpg) | ![Explaining the components](man7d1.jpg) |
 
 
   
 - **Day 2:** [Insert picture/video with timestamp]
 
----
-
-### Guests Visiting and Inquiring
-- [Insert picture/video of guests with annotations]
 
 ---
 
