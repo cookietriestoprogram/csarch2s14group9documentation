@@ -44,7 +44,13 @@
 - On day 1, there was a significant influx of visitors, each eager to learn about our project. Many were surprised to discover the evolution of transactional systems and how vulnerable to hacking the technology used to be. Particularly, they wanted to know if the encryption used in these devices was taught in their courses and if they could do the hacking themselves. The interactive dialogue led to insightful conversations about the implications of modern technological innovations for the future of transactions.
 
   
-- **Day 2:** [Insert picture/video with timestamp]
+- **Day 2:**
+- Number of Visitors: 39 people
+
+| ------- | ------- |
+| ![Explaining the components](man1d2.jpg) | ![Explaining the components](man4d2.jpg) |
+| ![Explaining the components](man2d2.jpg) | ![Explaining the components](man8d2.jpg) |
+- On day 2 of the exhibit, while there was a slight decrease in the number of attendees compared to the previous day, our team continued to engage with visitors who expressed a similar level of interest and curiosity. Despite the smaller crowd, we found ourselves fielding familiar questions and discussing the evolution of transactional systems with the same depth and enthusiasm as we had on day 1. This consistency in inquiries highlighted the enduring intrigue surrounding the topic and reaffirmed the significance of our exhibit in educating attendees about the advancements in transactional technology.
 
 
 ---
