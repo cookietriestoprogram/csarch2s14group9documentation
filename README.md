@@ -10,7 +10,10 @@
 ## 2. Documentation Collage
 
 ### Before Booth Setup
-- [Insert picture/video with annotation]
+
+- Initially, booth setup proved challenging as lighter components were at risk of getting blown away in the AC draft. To resolve this issue, we taped the components onto a board that already had descriptions.
+- The placement of components followed a timeline format, where visitors would proceed from left to right, learning about the project's progression from its inception to the current state.
+
 
 ### After Booth Setup
 - [Insert picture/video with annotation]
