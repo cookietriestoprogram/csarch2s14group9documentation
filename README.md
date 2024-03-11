@@ -44,9 +44,10 @@
 ---
 
 ### Members Manning the Booth and Guests Visiting and Inquiring
+- [Guest List](https://docs.google.com/spreadsheets/d/1utZ_jXnAx9xib_dsG2r2cJuqbxpRQkGhJKXK3BCNK30/edit?usp=sharing)
+
 #### **Day 1**
-- ![Guest List](https://docs.google.com/spreadsheets/d/1utZ_jXnAx9xib_dsG2r2cJuqbxpRQkGhJKXK3BCNK30/edit#gid=0)
-- Number of visitors: 64 people mostly from CCS
+- Number of visitors: 162 people mostly from CCS
 
 
 | Day 1 Images | Day 1 Images |
@@ -58,7 +59,7 @@
 
   
 #### **Day 2:**
-- Number of Visitors: 39 people
+- Number of Visitors: 81 people
 
 | Day 2 Images | Day 2 Images |
 | ------- | ------- |
