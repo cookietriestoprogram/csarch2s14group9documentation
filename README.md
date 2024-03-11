@@ -32,7 +32,7 @@
 ---
 
 ### Members Manning the Booth and Guests Visiting and Inquiring
-- **Day 1**
+#### **Day 1**
 - Number of visitors: 64 people mostly from CCS
 
 
@@ -44,7 +44,7 @@
 - On day 1, there was a significant influx of visitors, each eager to learn about our project. Many were surprised to discover the evolution of transactional systems and how vulnerable to hacking the technology used to be. Particularly, they wanted to know if the encryption used in these devices was taught in their courses and if they could do the hacking themselves. The interactive dialogue led to insightful conversations about the implications of modern technological innovations for the future of transactions.
 
   
-- **Day 2:**
+#### **Day 2:**
 - Number of Visitors: 39 people
 
 | Day 1 Images | Day 1 Images |
