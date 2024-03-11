@@ -11,11 +11,18 @@
 
 ### Before Booth Setup
 ![Empty table before booth setup](setup1.jpg)
-- Initially, booth setup proved challenging as lighter components were at risk of getting blown away in the AC draft. To resolve this issue, we taped the components onto a board that already had descriptions.
+- Initially, booth setup proved challenging as lighter components were at risk of getting blown away in the AC draft. 
+
+![Setting up the booth](setup2.jpg)
+- To resolve this issue, we taped the components onto a board that already had descriptions.
+
 
 
 ### After Booth Setup
-![After setup](setup3.jpg)
+![Booth setup](setup3.jpg)
+
+![Boothe setup pt 2](setup4.jpg)
+
 - The placement of components followed a timeline format, where visitors would proceed from left to right, learning about the project's progression from its inception to the current state.
 
 ### Members Manning the Booth
