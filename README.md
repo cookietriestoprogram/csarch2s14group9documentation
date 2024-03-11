@@ -14,7 +14,7 @@
 - Initially, booth setup proved challenging as lighter components were at risk of getting blown away in the AC draft. 
 
 ![Setting up the booth](setup2.jpg)
-- To resolve this issue, we taped the components onto a board that already had descriptions.
+- In this image, our team can be seen setting up the booth. To address the challenge of lighter components, we improvised by taping them onto a board that already had descriptions. This allowed us to secure the components and prevent them from being displaced.
 
 
 
@@ -23,7 +23,7 @@
 
 ![Boothe setup pt 2](setup4.jpg)
 
-- The placement of components followed a timeline format, where visitors would proceed from left to right, learning about the project's progression from its inception to the current state.
+- These images depict the fully set up booth. The placement of components follows a timeline format, strategically organized from left to right. This layout allows visitors to navigate through the project's progression, from its inception to its current state, in a clear and structured manner.
 
 ### Members Manning the Booth
 - **Day 1:** [Insert picture/video with timestamp]
