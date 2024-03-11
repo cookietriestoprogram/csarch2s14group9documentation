@@ -47,7 +47,7 @@
 #### **Day 2:**
 - Number of Visitors: 39 people
 
-| Day 1 Images | Day 1 Images |
+| Day 2 Images | Day 2 Images |
 | ------- | ------- |
 | ![Explaining the components](man1d2.jpg) | ![Explaining the components](man4d2.jpg) |
 | ![Explaining the components](man2d2.jpg) | ![Explaining the components](man8d2.jpg) |
@@ -57,7 +57,12 @@
 ---
 
 ### Flyers Used During Exhibit
-- [Insert picture/video of flyers used]
+| Flyers | Flyers |
+| ------- | ------- |
+| ![Flyer page 1](1.jpg) | ![Flyer page 2](2.jpg) |
+| ![Flyer page 3](3.jpg) | ![Flyer page 4](4.jpg) |
+| ![Flyer page 5](5.jpg) | ![Flyer page 6](6.jpg) |
+| ![Flyer page 7](7.jpg) | ![Flyer page 8](8.jpg) |
 
 ---
 
