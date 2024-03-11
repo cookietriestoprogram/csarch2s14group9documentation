@@ -32,7 +32,13 @@
 ---
 
 ### Members Manning the Booth
-- **Day 1:** [Insert picture/video with timestamp]
+- **Day 1:**
+
+| Image 1 | Image 2 |
+| ------- | ------- |
+| !(man1d1.jpg) | !(man2d1.jpg) |
+
+  
 - **Day 2:** [Insert picture/video with timestamp]
 
 ---
