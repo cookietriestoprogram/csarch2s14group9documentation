@@ -34,8 +34,8 @@
 ### Members Manning the Booth
 - **Day 1:**
 
-| Day 1 of Exhibit |
-| ------- | ------- |
+| Image 1 | Image 2 | 
+| -------------- |
 | ![Empty table before booth setup](man3d1.jpg) | ![Setting up the booth](man5d1.jpg) |
 
 
