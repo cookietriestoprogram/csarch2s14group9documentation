@@ -36,7 +36,7 @@
 
 | Image 1 | Image 2 |
 | ------- | ------- |
-| ![Empty table before booth setup](setup1.jpg) | ![Setting up the booth](setup2.jpg) |
+| ![Empty table before booth setup](man3d1.jpg) | ![Setting up the booth](man5d1.jpg) |
 
 
   
