@@ -92,7 +92,7 @@
 ---
 
 ### Other Gimmicks Used
-![Gimmick](setup5.jpg)
+![Gimmick](gimmick0.jpg)
 - To fully embrace the transition from paper money to contactless transactions, we invited visitors to experience a familiar technology: QR codes. This QR redirects users to our virtual flyers.
 
 
