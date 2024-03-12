@@ -87,5 +87,6 @@
 ![Gimmick](setup5.jpg)
 - To fully embrace the transition from paper money to contactless transactions, we invited visitors to experience a familiar technology: QR codes. This QR redirects users to our virtual flyers.
 
+![Gimmick 2 Guessing Game](gimmick1.jpg)
 
 - To deepen our visitors' appreciation for these technologies, we engaged them in a fun guessing game where they had to match well-known local innovations with the corresponding transactional technologies they rely on. For instance, participants guessed that the Beep Card utilizes NFC, while expressways utilize RFID, and EMV technology powers credit cards. Correct guesses were rewarded with mini Hershey chocolates, adding an element of enjoyment to the educational experience and reinforcing their understanding of the various technologies shaping our daily lives.
