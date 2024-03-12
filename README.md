@@ -31,6 +31,7 @@
 ![Setting up the booth](setup2.jpg)
 - In this image, our team can be seen setting up the booth. To address the challenge of lighter components, we improvised by taping them onto a board that already had descriptions. This allowed us to secure the components and prevent them from being displaced.
 
+- On both days, the challenge was the same. However, we found it easier to set up our booth on the second day.
 ---
 
 ### After Booth Setup
@@ -40,6 +41,8 @@
 
 ![Booth setup pt 3](setup4.jpg)
 - Our exhibit showcased the evolution of transactional systems through components such as EMV chip cards and readers for enhanced security, alongside NFC technology demonstrating the rise of contactless transactions.
+
+- Seeing that the setup was effective, on both days, the booth setup was the same. 
 
 ---
 
