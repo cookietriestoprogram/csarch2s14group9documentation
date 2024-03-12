@@ -25,7 +25,12 @@
 ## 2. Documentation Collage
 
 ### Before Booth Setup
-![Empty table before booth setup](setup1.jpg)
+
+| Before | Before|
+| ------- | ------- |
+| ![Empty table before booth setup](setup1.jpg) | ![Empty table 2](before.jpg) |
+
+
 - Initially, booth setup proved challenging as lighter components were at risk of getting blown away.
 
 ![Setting up the booth](setup2.jpg)
